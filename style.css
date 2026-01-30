@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  background:#111;
+  color:white;
+  padding:20px;
+}
+
+input, button {
+  padding:8px;
+  margin:5px;
+}
+
+.tag {
+  display:inline-block;
+  background:#222;
+  color:white;
+  padding:6px 10px;
+  border-radius:20px;
+  margin:5px;
+}
+
+.tag span {
+  color:red;
+  margin-left:8px;
+  cursor:pointer;
+}
